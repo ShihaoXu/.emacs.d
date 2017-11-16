@@ -12,15 +12,9 @@
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
- '(column-number-mode t)
- '(fringe-mode (quote (nil . 0)) nil (fringe))
- '(menu-bar-mode nil)
  '(package-selected-packages
    (quote
-    (dakrone-theme dired-subtree dired+ zweilight-theme)))
- '(scroll-bar-mode nil)
- '(tool-bar-mode nil)
- '(tooltip-mode nil))
+    (dakrone-theme dired-subtree dired+ zweilight-theme))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
